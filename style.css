@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+h2{ font 
+    color: aqua;
+}
+img{
+    height: 80px ;
+}
+h1{
+    color: blue;
+    font-family: 'Young Serif', serif;
+}
+h3{
+    color: black;
+    font-family: 'Young Serif', serif;
+}
+.blue:hover{
+    color: chartreuse;
+    border: black solid 2px;
+    background-color: brown;
+}
+#yellow{
+  font-size: 75px;
+  align-items: center;
+  text-decoration: none;
+width: 0px;
+}
+a{
+    fontsize: 15px;
+    text-decoration: none;
+}
+body{
+ 
+}
